@@ -31,4 +31,4 @@ if __name__ == '__main__':
 
     # complex calculations
     result = function(x)
-    print(f'Result of x ** 2 + x ** 3 = {result}')
+    print(f'Result of x * 42 = {result}')
