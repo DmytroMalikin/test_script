@@ -22,7 +22,7 @@ def function(argument: float):
     :param argument: only argument that function takes
     :return: result of calculations on argument
     """
-    return argument ** 2 + argument ** 3
+    return argument * 42
 
 
 if __name__ == '__main__':
